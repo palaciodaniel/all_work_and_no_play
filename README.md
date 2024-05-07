@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palaciodaniel/art_006_all_work_no_play/main)
+
 # ART 006 - All Work and No Play
 
 <p align="center"> 
